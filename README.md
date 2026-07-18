@@ -25,7 +25,7 @@ Rather than completely redesigning Minecraft, Azura gently enhances the familiar
 
 ---
 
-## 💎 Features
+## 💎 Features Aurora Ice
 
 - Crystal Glass Hotbar
 - Crystal Glass Selector
@@ -44,7 +44,7 @@ Rather than completely redesigning Minecraft, Azura gently enhances the familiar
 
 ---
 
-## 🎨 Official Color Palette
+## 🎨 Official Color Palette Aurora Ice
 
 |  ID  |      Name      |   Hex   |
 |------|----------------|---------|
