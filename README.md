@@ -1,10 +1,12 @@
+![Azura UI - Fire & Ice Collection](Azura%20UI%20Banner%20Fire%20and%20Ice.png)
+
 Azura UI is a collection of crystal-inspired Minecraft UI resource packs featuring multiple themed editions.
 
-❄️ Aurora Ice Edition
-The original crystal-inspired edition featuring frosted glass, Aurora Lime and blueberries.
+- ❄️ **Aurora Ice Edition**  
+  The original crystal-inspired edition featuring frosted glass, Aurora Lime and blueberries.
 
-🔥 Ruby Fire Edition
-The fiery counterpart featuring ruby crystal glass, molten lava and Amarena cherries.
+- 🔥 **Ruby Fire Edition**  
+  The fiery counterpart featuring ruby crystal glass, molten lava and Amarena cherries.
 
 ---
 
