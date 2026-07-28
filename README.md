@@ -46,7 +46,7 @@ See LICENSE for details.
 
 ---
 
-Enjoy Azura UI 💙❄️
+Enjoy Azura UI ❄️🔥
 
 Made with patience, countless tiny pixels, and lots of love for Minecraft.
 If Azura made your Minecraft experience just a little more beautiful, then it has fulfilled its purpose.
