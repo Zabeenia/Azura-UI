@@ -25,9 +25,8 @@ Designed for Minecraft 26.1.2 and 26.2.
 
 Zabeenia
 
-### Creative Assistance
+### Technical support
 
-Logo concept, brainstorming and technical support:
 ChatGPT (OpenAI)
 
 ### Tools
