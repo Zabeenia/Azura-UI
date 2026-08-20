@@ -7,8 +7,7 @@ Crafted with passion, inspired by crystal glass, vibrant colors and magical skie
 - Pixel Art
 - Color Palette
 
-## Creative Assistance
-Logo concept, brainstorming and technical support:
+## Technical support
 ChatGPT (OpenAI)
 
 ## Tools
