@@ -25,10 +25,6 @@ Designed for Minecraft 26.1.2 and 26.2.
 
 Zabeenia
 
-### Technical support
-
-ChatGPT (OpenAI)
-
 ### Tools
 
 - Paint.NET
